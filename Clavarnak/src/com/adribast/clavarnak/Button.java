@@ -27,6 +27,8 @@ public class Button extends JButton implements MouseListener{
 
         super(str);
 
+        int test =5;
+
         this.name = str;
 
         Dimension sizeButton = new Dimension(120, 30) ;
